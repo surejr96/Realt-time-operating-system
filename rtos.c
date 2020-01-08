@@ -1,16 +1,5 @@
-anjeevani
-last seen today at 10:16 AM
-
-
-
-
-
-
-
-
-
-YESTERDAY
-
+//RTOS Framework - Spring 2019
+//Project done by Surej Rajkumar
 
 int rtosScheduler()
 {
