@@ -1,20 +1,12 @@
 // RTOS Framework - Spring 2019
-// J Losh
-// Student Name: Surej Rajkumar
-// TO DO: Add your name on this line.  Do not include your ID number in the file.
-// Submit only two .c files in an e-mail to me (not in a compressed file):
-// xx_rtos.c
-// xx_tm4c123gh6pm_startup_ccs.c
-// (xx is a unique number that will be issued in class)
+// Project by: Surej Rajkumar
+
 // Please do not change any function name in this code or the thread priorities
-//-----------------------------------------------------------------------------
-// Hardware Target
-//-----------------------------------------------------------------------------
-// Target Platform: EK-TM4C123GXL Evaluation Board
-// Target uC:       TM4C123GH6PM
-// System Clock:    40 MHz
+
 // Hardware configuration:
+
 // 5 Pushbuttons and 5 LEDs, UART
+
 // LEDS on these pins:
 // Blue:   PF2 (on-board)
 // Red:    PE1
